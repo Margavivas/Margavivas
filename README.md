@@ -3,9 +3,10 @@
 <h3>👩‍💻 About Me</h3>
     <p>Hi, I'm Margalida, but you can call me Marga. As an empathetic team player with a passion for learning and tackling new challenges, I bring a unique blend of design and development skills to the table. With five years of interactive design experience and currently with my Master in Web Development, I create functional and visually engaging user interfaces. I'm focused on becoming a full-stack developer.</p>
 
+<h3>💻 Stack</h3>
+<img src="https://github.com/Margavivas/Margavivas/blob/main/stack.png" alt="Stack" />
 
-### 💻 Stack
-![stackImage](https://github.com/Margavivas/Margavivas/blob/main/tools.png)
+
 
 <!--
 ## 🛠️ Skills
