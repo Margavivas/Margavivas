@@ -4,24 +4,53 @@
     <p>Hi, I'm Margalida, but you can call me Marga. As an empathetic team player with a passion for learning and tackling new challenges, I bring a unique blend of design and development skills to the table. With five years of interactive design experience and currently with my Master in Web Development, I create functional and visually engaging user interfaces. I'm focused on becoming a full-stack developer.</p>
 
 <h3>💻 Stack</h3>
+<h4> Frontend | Backend | Design </h4>
 <img src="https://github.com/Margavivas/Margavivas/blob/main/stack.png" alt="Stack" />
 
+<h3>🖼 Some Projects</h3>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Planmate</h3>
+<div align="center">
+<a href="" target="_blank"><img src="https://github.com/Margavivas/Margavivas/blob/main/planmate.png" width="400" alt="Planmate app"></a>
+</br>
+<p>Planamte is a personal project where I developed both the frontend using Vue.js and the backend with Laravel. This application helps you organize your savings, manage to-do lists, and create notes. You can easily edit and delete these notes and tasks, ensuring you stay on top of your financial goals and daily activities.</p>
+</div>
+                                                                                      
+</td>
 
+<td width="50%">
+<h3 align="center">3D Portfolio Showcase</h3>
+<div align="center">
+<a href="https://github.com/Margavivas/3DArtist-portfolio" target="_blank"><img src="https://github.com/Margavivas/Margavivas/blob/main/3dportfolio.png" width="400" alt="3d porfolio web"></a>
+<p>Step into my 3D portfolio created with Vue.js and Three.js. Explore captivating visualizations and dynamic models that bring creativity to life. Immerse yourself in the world of 3D art, where every detail is carefully crafted to showcase innovation and imagination. Welcome to my digital playground of code and creativity!</p>
+</div>                                                          
+</table>                                                                                 
+</div>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">CSS Animation: Illustration Integration</h3>
+<div align="center">
+<a href="https://codepen.io/margavivas/pen/NWBrYQZ" target="_blank"><img src="https://github.com/Margavivas/Margavivas/blob/main/css%20animation.gif" width="400" alt="
+Css Animation"></a>
+<p>Illustrations come to life without the need for SVG. Created to highlight our proficiency in HTML, CSS integration, and animation techniques, this project showcases the seamless fusion of design and code. Dive into a world where creativity knows no bounds, and animations breathe life into static illustrations.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+<h3 align="center">Meeve: Your Fitness Partner Matchmaker</h3>
+<div align="center">
+<a href="https://github.com/LouFavre2/Meeve" target="_blank"><img src="https://github.com/Margavivas/Margavivas/blob/main/meeve.png" width="400" alt="Meeve app"></a>
+<p>Welcome to Meeve, the revolutionary fitness partner matching platform designed to help you find your perfect exercise buddy. As part of a collaborative effort, I contributed to the frontend development using React, ensuring a seamless user experience for our PWA (Progressive Web App) deployment.</p>
+</div>                                                          
+</table>                                                                                 
+</div>
+<br>
 
 <!--
-## 🛠️ Skills
-- **Programming Languages**: JavaScript, TypeScript, HTML, CSS, Python
-- **Frameworks**: Vue.js, React, Node.js
-- **Design Tools**: Adobe Photoshop, Illustrator, Figma
-- **Other Technologies**: Git, Docker, Kubernetes
-
-## 🚀 Featured Projects
-### [Project 1](https://github.com/tu-usuario/proyecto1)
-A brief description of the project. What technologies did you use? What challenges did you overcome?
-
-### [Project 2](https://github.com/tu-usuario/proyecto2)
-A brief description of the project. What technologies did you use? What challenges did you overcome?
-
 ## 🎓 Education and Certifications
 - **Degree in Interactive Design** - XYZ University
 - **Web Development Certification** - ABC Platform
