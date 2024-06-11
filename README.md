@@ -21,7 +21,7 @@
 <td width="50%">
 <h3 align="center">Planmate</h3>
 <div align="center">
-<a href="" target="_blank"><img src="https://github.com/Margavivas/Margavivas/blob/main/planmate.png" width="400" alt="Planmate app"></a>
+<a href="https://github.com/Margavivas/planmate" target="_blank"><img src="https://github.com/Margavivas/Margavivas/blob/main/planmate.png" width="400" alt="Planmate app"></a>
 <p></p>
 <p>Planamte is a personal project where I developed both the frontend using Vue.js and the backend with Laravel. This application helps you organize your savings, manage to-do lists, and create notes. You can easily edit and delete these notes and tasks, ensuring you stay on top of your financial goals and daily activities.</p>
 </div>
