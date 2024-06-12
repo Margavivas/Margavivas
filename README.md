@@ -7,13 +7,13 @@
 <b>Frontend Developer Intern at Vrombr</b><br>
 (April 2023 - Present)<br>
 <p></p>
-<a href="https://vrombr.games/" target="_blank"><img src="https://github.com/Margavivas/Margavivas/blob/main/try%20vrombr.png" width="120" alt="Planmate app"></a>
+<a href="https://vrombr.games/" target="_blank"><img src="https://github.com/Margavivas/Margavivas/blob/main/button-1.png" width="120" alt="Planmate app"></a>
 
 
 
 <h3>💻 Stack</h3>
 <h4> Frontend | Backend | Design </h4>
-<img src="https://github.com/Margavivas/Margavivas/blob/main/stack.png" alt="Stack" />
+<img src="https://github.com/Margavivas/Margavivas/blob/main/stack-1.png" alt="Stack" />
 
 <h3>🖼 Some Projects</h3>
 <table>
