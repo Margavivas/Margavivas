@@ -4,11 +4,8 @@
     <p>Hi, I'm Margalida, but you can call me Marga. As an empathetic team player with a passion for learning and tackling new challenges, I bring a unique blend of design and development skills to the table. With five years of interactive design experience and currently with my Master in Web Development, I create functional and visually engaging user interfaces. I'm focused on becoming a full-stack developer.</p>
 
 <h3>🚀 What I'm Doing</h3>
-<b>Frontend Developer Intern at Vrombr</b><br>
-(April 2023 - Present)<br>
-<p></p>
-<a href="https://vrombr.games/" target="_blank"><img src="https://github.com/Margavivas/Margavivas/blob/main/button-1.png" width="120" alt="Planmate app"></a>
-
+<b>Frontend Developer Consultanyt at Abylsen </b><br>
+(November 2023 - Present)<br>
 
 
 <h3>💻 Stack</h3>
